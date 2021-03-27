@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">randomCubeApp</string>
+    <string name="roll_now">Roll now!</string>
+</resources>
